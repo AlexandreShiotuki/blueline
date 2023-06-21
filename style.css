@@ -176,6 +176,7 @@ input:checked + input ~ input:before {
 .cards {
 	display: flex;
 	justify-content: space-evenly;
+	padding-top: 1rem;
 }
 
 .cardm{
